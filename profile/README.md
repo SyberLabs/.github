@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/syberlabs_intro.gif" width="100%" alt="SyberLabs Visual" />
+  <img src="./assets/syberlabs_intro.gif" width="50%" alt="SyberLabs Visual" />
 </p>
 
 # SyberLabs
