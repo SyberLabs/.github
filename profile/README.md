@@ -32,9 +32,8 @@
 
 - **[eidolon](https://github.com/SyberLabs/eidolon)** — Strange attractors, Bessel-mode "frozen music," and tensegrity normal modes rendered as light. Every visual channel is derived from a real invariant and verified before it ships.
 
-## The ideas behind the work
-
-The studio follows a design doctrine of **Consciousness-First Computing**: software for humans.  
+## Principles of Design
+Stochastic, Dynamical, Generative, Geometric, Experiential 
 
 ## Behind SyberLabs
 
