@@ -32,11 +32,9 @@
 
 - **[eidolon](https://github.com/SyberLabs/eidolon)** — Strange attractors, Bessel-mode "frozen music," and tensegrity normal modes rendered as light. Every visual channel is derived from a real invariant and verified before it ships.
 
-## Principles of Design
-Stochastic, Dynamical, Generative, Geometric, Experiential 
+## Systems to provoke thought. 
 
-## Behind SyberLabs
 
-Built by Mateo — artist, engineer, theorist. The range is the point: the same eye that tunes an attractor's geometry checks a model for data leakage.
+Built by Mateo — artist, engineer, theorist. 
 
  [@syberlabs](https://x.com/syberlabs) · *[sykosyber@gmail.com]*
