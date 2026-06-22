@@ -34,7 +34,7 @@
 
 ## The ideas behind the work
 
-The studio follows a design doctrine of **Consciousness-First Computing**: software for humans to participate in digital environments with freedom, depth, and responsbility in an integrated and creative manner.  
+The studio follows a design doctrine of **Consciousness-First Computing**: software for humans.  
 
 ## Behind SyberLabs
 
