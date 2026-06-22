@@ -2,7 +2,6 @@
 
 **A one-person research studio spanning machine learning, complex-systems simulation, and computational art.**
 
-Every project here pairs an ambitious idea with an attempt to break it. Where the evidence narrowed the idea, the repository says so: negative results, scoped claims, and audit fixes are kept throughout.
 
 ## Start here
 
