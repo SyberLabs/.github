@@ -4,7 +4,7 @@
 
 # SyberLabs
 
-**A one-person research studio spanning machine learning, complex-systems simulation, and computational art.**
+**A one-person research studio exploring machine learning, complex-systems simulation, and computational art.**
 
 
 ## Start here
