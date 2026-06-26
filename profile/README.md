@@ -39,6 +39,6 @@
 ## Systems to provoke thought. 
 
 
-Built by Mateo — artist, engineer, theorist. 
+Built by Mateo. 
 
- [@syberlabs](https://x.com/syberlabs) · *[sykosyber@gmail.com]*
+ [@syberlabs](https://x.com/syberlabs) · *sykosyber@gmail.com*
