@@ -41,4 +41,4 @@
 
 Built by Mateo. 
 
- [@syberlabs](https://x.com/syberlabs) · *sykosyber@gmail.com*
+ *syberlabs.software@gmail.com*
