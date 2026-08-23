@@ -13,7 +13,7 @@
 |---|---|
 | Production ML on real data | **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)** — leakage-aware flight-delay prediction over 6.96M records, with staged ablation |
 | Systems engineering | **[dynamic-kernel](https://github.com/SyberLabs/dynamic-kernel)** — simulation core, API, and visualizer |
-| Computational art | **[eidolon](https://github.com/SyberLabs/eidolon)** — strange attractors and browser software |
+| Computational art | **[RISE](https://github.com/SyberLabs/eidolon](https://github.com/SyberLabs/RISE)** — strange attractors and browser software |
 
 ## All projects
 
