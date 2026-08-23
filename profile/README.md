@@ -25,10 +25,11 @@
 **Systems & interface**
 
 - **[dynamic-kernel](https://github.com/SyberLabs/dynamic-kernel)** — A simulation platform for adaptive circulatory networks, using non-stationary routing over weighted graphs: a vectorized NumPy kernel, a FastAPI/WebSocket service, and a React visualizer.
-- **[RISE](https://github.com/SyberLabs/RISE)** — A self-contained web application with its own audio engine and generative visuals; the studio's most built front-end artifact.
+
 
 **Computational art**
 
+- **[RISE](https://github.com/SyberLabs/RISE)** — A self-contained web application with its own audio engine and generative visuals.
 - **[eidolon](https://github.com/SyberLabs/eidolon)** — Exploration into the aesthetics of strange attractors.
 
 ## Systems to provoke thought. 
