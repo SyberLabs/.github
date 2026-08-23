@@ -12,7 +12,6 @@
 | If you want… | Start with |
 |---|---|
 | Production ML on real data | **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)** — leakage-aware flight-delay prediction over 6.96M records, with staged ablation |
-| Research & experimental method. | **[grokking-scaling-theory](https://github.com/SyberLabs/grokking-scaling-theory)** · **[vital-language](https://github.com/SyberLabs/vital-language)** |
 | Systems engineering | **[dynamic-kernel](https://github.com/SyberLabs/dynamic-kernel)** — simulation core, API, and visualizer |
 | Computational art | **[eidolon](https://github.com/SyberLabs/eidolon)** — strange attractors and browser software |
 
@@ -21,8 +20,6 @@
 **Machine learning & research**
 
 - **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)** — Leakage-aware flight-delay prediction on 6.96M BTS records; staged ablation isolating the lift from flight metadata, weather, and airport-network pressure; LightGBM with a reporting dashboard.
-- **[grokking-scaling-theory](https://github.com/SyberLabs/grokking-scaling-theory)** — Empirical study of delayed generalization: fit competition across candidate scaling laws, RG-inspired models, bootstrap intervals, and LaTeX paper. 
-- **[tok](https://github.com/SyberLabs/tok)** — A governed epistemic architecture for mechanism-centered reasoning. Sanitized public research package.
 - **[dreamer-v2](https://github.com/SyberLabs/dreamer-v2)** — A research library that treats generation as motion through a semantic field, with activation steering and decoding.
 
 **Systems & interface**
