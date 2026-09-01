@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  # SyberLabs
+  <h1>SyberLabs</h1>
 </p>
 
 “How may software change what people can perceive, understand, and create?”
