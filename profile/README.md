@@ -6,7 +6,7 @@
 
 “How may software change what people can perceive, understand, and create?”
 
-SyberLabs is a place for building machine-learning pipelines and experiments, HCI-oriented product development, simulation platforms, and generative art.
+SyberLabs is a place for building machine-learning experiments, HCI-oriented product development, simulation platforms, and generative art.
 
 ## Start here
 
