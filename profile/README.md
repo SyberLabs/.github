@@ -4,9 +4,9 @@
 
 # SyberLabs
 
-Software that makes thinking inspectable.
+My principal interest lies in the question: how may software change what people can perceive, understand, and create?
 
-Before a system reasons, you should be able to see what it is connected to. Before a result is reported, the evidence has to license the claim.
+SyberLabs is a place for building machine-learning pipelines and experiments, HCI-oriented product development, simulation platforms, and generative art.
 
 ## Start here
 
