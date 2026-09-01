@@ -1,8 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="./assets/syberlabs_intro.gif" width="50%" alt="SyberLabs Visual" />
-</p>
-
-<h1 align="center">SyberLabs</h1>
+  <h1>SyberLabs</h1>
+</div>
 
 “How may software change what people can perceive, understand, and create?”
 
