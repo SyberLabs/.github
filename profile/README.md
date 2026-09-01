@@ -4,7 +4,7 @@
 
 # SyberLabs
 
-My principal interest lies in the question: how may software change what people can perceive, understand, and create?
+“How may software change what people can perceive, understand, and create?”
 
 SyberLabs is a place for building machine-learning pipelines and experiments, HCI-oriented product development, simulation platforms, and generative art.
 
