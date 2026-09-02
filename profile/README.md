@@ -17,7 +17,7 @@ SyberLabs is a place for building machine-learning experiments, HCI-oriented pro
 | Interface | **[RISE](https://github.com/SyberLabs/RISE)** — client-side reading environment; files never leave the browser |
 
 ## Papers & Theory
-**[Papers]([https://github.com/SyberLabs/OmniOS](https://github.com/SyberLabs/papers))** — Empirical Research
+**[Papers]([https://github.com/SyberLabs/OmniOS](https://github.com/SyberLabs/papers)** — Empirical Research
 
 ## Systems to provoke thought.
 
