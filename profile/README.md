@@ -26,13 +26,11 @@ SyberLabs is a place for building machine-learning experiments, HCI-oriented pro
 **Kernels and simulation**
 
 - **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)** — Dependency-free Python kernel for stochastic rewriting over typed directed hypergraphs. Acting and claiming are separate licenses. Experiments grade claims KNOWN, MEASURED, INFERRED, or PROPOSED.
-- **[dynamic-kernel](https://github.com/SyberLabs/dynamic-kernel)** — Vectorized circulation on weighted graphs; FastAPI / WebSocket service; React visualizer.
+- **[dynamic-circulator](https://github.com/SyberLabs/dynamic-circulator)** — Vectorized circulation on weighted graphs; FastAPI / WebSocket service; React visualizer.
 
 **Machine learning**
 
 - **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)** — LightGBM over 6.96M BTS flights; pre-departure observability enforced in code; chronological holdout.
-- **[dreamer-v2](https://github.com/SyberLabs/dreamer-v2)** — Generation as motion through a semantic field, with activation steering and swappable decoders.
-- **[vital-language](https://github.com/SyberLabs/vital-language)** — Empirical harness for literary vitality. Negative result kept: coherence scaffolding beat token-level turbulence.
 - **[grokking-scaling-theory](https://github.com/SyberLabs/grokking-scaling-theory)** — Scaling-law tests with bootstrap intervals over declared scaling points.
 
 ## Systems to provoke thought.
