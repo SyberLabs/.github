@@ -25,7 +25,7 @@ SyberLabs is a place for building machine-learning experiments, HCI-oriented pro
 
 **Kernels and simulation**
 
-- **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)** — Dependency-free Python kernel for stochastic rewriting over typed directed hypergraphs. Acting and claiming are separate licenses. Experiments grade claims KNOWN, MEASURED, INFERRED, or PROPOSED.
+- **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)** — Dependency-free Python kernel for stochastic rewriting over typed directed hypergraphs.
 - **[dynamic-circulator](https://github.com/SyberLabs/dynamic-circulator)** — Vectorized circulation on weighted graphs; FastAPI / WebSocket service; React visualizer.
 
 **Machine learning**
