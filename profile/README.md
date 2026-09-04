@@ -11,11 +11,11 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 | If you want…          | Open                                                                                                                               |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Product / HCI**     | **[OmniOS](https://github.com/SyberLabs/OmniOS)** — spatial canvas, typed ports, inspectable AI context                            |
-| **Systems / Kernels** | **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)** — typed hypergraph rewrite kernel; exact stochastic semantics; claim licenses |
-| **Applied ML**        | **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)** — leakage-aware flight-delay prediction over 6.96M records         |
-| **Interface**         | **[RISE](https://github.com/SyberLabs/RISE)** — client-side reading environment; files never leave the browser                     |
-| **Research**          | **[Papers](https://github.com/SyberLabs/papers)** — empirical studies, experiments, and technical research                         |
+| **Product / HCI**     | **[OmniOS](https://github.com/SyberLabs/OmniOS)**: spatial canvas, typed ports, inspectable AI context                            |
+| **Systems / Kernels** | **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)**: typed hypergraph rewrite kernel; exact stochastic semantics; claim licenses |
+| **Applied ML**        | **[skypredict-v2](https://github.com/SyberLabs/skypredict-v2)**: leakage-aware flight-delay prediction over 6.96M records         |
+| **Interface**         | **[RISE](https://github.com/SyberLabs/RISE)**: client-side reading environment; files never leave the browser                     |
+| **Research**          | **[Papers](https://github.com/SyberLabs/papers)**: empirical studies, experiments, and technical research                         |
 
 ## Systems to provoke thought.
 
