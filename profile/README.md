@@ -7,13 +7,21 @@
 
 SyberLabs is a laboratory for building and studying software at the intersection of **machine learning, human-computer interaction, computational systems, simulation, and generative art.**
 
-## Relay - our flagship project
+<!-- relay:public:start -->
+## RELAY - our flagship project
 
-**[Relay](https://github.com/SyberLabs/relay) is SyberLabs’ current product focus.**
+**[RELAY](https://github.com/SyberLabs/relay) is SyberLabs' current product focus.**
 
-Relay brings job research, application history, and drafts into one review workspace, with local integrations for Notion, Claude, and Grok Bot. It is the project at the center of our work and where we are focusing our development effort.
+A job-search review workspace that keeps research, application history, and exact accepted drafts together across your tools. It is the project at the center of our development effort.
 
-**[Explore Relay →](https://github.com/SyberLabs/relay)**
+**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).**
+
+The current release works with **Obsidian, Notion, Claude and Grok Bot** through explicit integrations. **ChatGPT and Codex support is implemented and [awaiting required review](https://github.com/SyberLabs/relay/pull/13)**, including prepared prompts, draft file handoffs and a local Codex CLI adapter.
+
+Early release. Returned drafts require human review; you send your own applications.
+
+**[Explore RELAY](https://github.com/SyberLabs/relay)** | [Review the ChatGPT/Codex integration](https://github.com/SyberLabs/relay/pull/13)
+<!-- relay:public:end -->
 
 ## Other projects
 
