@@ -19,6 +19,4 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 ## Systems to provoke thought.
 
-Built by Mateo.
-
 *[syberlabs.software@gmail.com](mailto:syberlabs.software@gmail.com)* · [syberlabs.space](https://syberlabs.space/)
