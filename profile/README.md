@@ -9,7 +9,7 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 ## Relay — our flagship project
 
-**[Relay](https://github.com/SyberLabs/relay) is SyberLabs’ main priority and proudest accomplishment.**
+**[Relay](https://github.com/SyberLabs/relay) is SyberLabs’ current product focus.**
 
 Relay brings job research, application history, and drafts into one review workspace, with local integrations for Notion, Claude, and Grok Bot. It is the project at the center of our work and where we are focusing our development effort.
 
