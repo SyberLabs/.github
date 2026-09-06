@@ -16,11 +16,11 @@ A job-search review workspace that keeps research, application history, and exac
 
 **Lead engineer: [Seth Carlson](https://github.com/sdcarlson).**
 
-The current release works with **Obsidian, Notion, Claude and Grok Bot** through explicit integrations. **ChatGPT and Codex support is implemented and [awaiting required review](https://github.com/SyberLabs/relay/pull/13)**, including prepared prompts, draft file handoffs and a local Codex CLI adapter.
+Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot** through explicit integrations. ChatGPT uses a prompt/file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Early release. Returned drafts require human review; you send your own applications.
+Early release. Integrations require explicit setup or file handoffs. Returned drafts require human review. No automatic application sending or background account sync is included.
 
-**[Explore RELAY](https://github.com/SyberLabs/relay)** | [Review the ChatGPT/Codex integration](https://github.com/SyberLabs/relay/pull/13)
+**[Explore RELAY](https://github.com/SyberLabs/relay)** | [ChatGPT and Codex setup](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md)
 <!-- relay:public:end -->
 
 ## Other projects
