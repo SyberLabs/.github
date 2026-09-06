@@ -16,7 +16,7 @@ A job-search review workspace that keeps research, application history, and exac
 
 **Lead engineer: [Seth Carlson](https://github.com/sdcarlson).**
 
-Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot** through explicit integrations. ChatGPT uses a prompt/file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
+Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV** through explicit integrations. ChatGPT uses a prompt/file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
 Early release. Integrations require explicit setup or file handoffs. Returned drafts require human review. No automatic application sending or background account sync is included.
 
