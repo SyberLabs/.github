@@ -12,13 +12,13 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 **[RELAY](https://github.com/SyberLabs/relay) is SyberLabs' current product focus.**
 
-A job-search review workspace that keeps research, application history, and exact accepted drafts together across your tools. It is the project at the center of our development effort.
+SyberLabs' job-search product: a private review workspace that remembers the roles you researched, the drafts you accepted, and the interviews you started. Assistants help you write; Relay keeps the record. It is the project at the center of our development effort.
 
-**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).**
+**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** Application development: [Mateo](https://github.com/sykosyber).
 
-Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV** through explicit integrations. ChatGPT uses a prompt/file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
+Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Early release. Integrations require explicit setup or file handoffs. Returned drafts require human review. No automatic application sending or background account sync is included.
+Early release. You stay in control. Integrations are explicit file and command handoffs. Every returned draft needs human review. Relay does not send applications or sync accounts in the background.
 
 **[Explore RELAY](https://github.com/SyberLabs/relay)** | [ChatGPT and Codex setup](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md)
 <!-- relay:public:end -->
