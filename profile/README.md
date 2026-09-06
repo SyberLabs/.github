@@ -16,9 +16,9 @@ SyberLabs' job-search product: a private review workspace that remembers the rol
 
 **Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** Application development: [Mateo](https://github.com/sykosyber).
 
-Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
+Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Early release. You stay in control. Integrations are explicit file and command handoffs. Every returned draft needs human review. Relay does not send applications or sync accounts in the background.
+Early release. You stay in control. Integrations are explicit file and command handoffs. Every returned draft needs human review. Agents cannot accept a draft or submit an application. Public board pulls are read-only. Relay does not send applications or sync accounts in the background.
 
 **[Explore RELAY](https://github.com/SyberLabs/relay)** | [ChatGPT and Codex setup](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md)
 <!-- relay:public:end -->
