@@ -14,7 +14,7 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 SyberLabs' invited-pilot workspace for one job at a time: keep candidate facts for reuse, hand context to your assistant, review returned wording, and accept exact text. Relay preserves research and review history for later use. It is the project at the center of our development effort.
 
-**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** Application development: [Mateo](https://github.com/sykosyber).
+**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** **Product development: [Mateo Robles](https://github.com/sykosyber).**
 
 Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
