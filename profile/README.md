@@ -25,7 +25,7 @@ Invited pilot. Review and approve wording for each job; Relay does not send appl
 
 Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations are explicit file and command handoffs; Relay does not send applications or sync accounts in the background.
+Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations use explicit file and command handoffs or browser tools where WebMCP is supported; Relay does not send applications or sync accounts in the background.
 
 </details>
 
