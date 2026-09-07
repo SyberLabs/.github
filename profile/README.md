@@ -12,13 +12,13 @@ SyberLabs is a laboratory for building and studying software at the intersection
 
 **[RELAY](https://github.com/SyberLabs/relay) is SyberLabs' current product focus.**
 
-SyberLabs' job-search product: a private review workspace that remembers the roles you researched, the drafts you accepted, and the interviews you started. Assistants help you write; Relay keeps the record. It is the project at the center of our development effort.
+SyberLabs' invited-pilot workspace for one job at a time: keep candidate facts for reuse, hand context to your assistant, review returned wording, and accept exact text. Relay preserves research and review history for later use. It is the project at the center of our development effort.
 
-**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** **Design & Development: [Mateo Robles](https://github.com/sykosyber).**
+**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** Application development: [Mateo](https://github.com/sykosyber).
 
 Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Early release. You stay in control. Integrations are explicit file and command handoffs. Every returned draft needs human review. Agents cannot accept a draft or submit an application. Public board pulls are read-only. Relay does not send applications or sync accounts in the background.
+Invited pilot. Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations are explicit file and command handoffs; Relay does not send applications or sync accounts in the background.
 
 **[Explore RELAY](https://github.com/SyberLabs/relay)** | [ChatGPT and Codex setup](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md)
 <!-- relay:public:end -->
