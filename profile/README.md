@@ -18,14 +18,14 @@ Relay helps job seekers manage applications across their preferred AI tools. Kee
 
 **Relay lead engineer: [Seth Carlson](https://github.com/sdcarlson).** **Product: [Mateo Robles](https://github.com/sykosyber).**
 
-Invited pilot. Review and approve wording for each job; Relay does not send applications.
+Invited pilot. Review and approve wording for each job; Relay does not POST the employer form.
 
 <details>
 <summary>Integrations and review boundaries</summary>
 
 Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations use explicit file and command handoffs or browser tools where WebMCP is supported; Relay does not send applications or sync accounts in the background.
+Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations use explicit file and command handoffs or browser tools where WebMCP is supported; Relay does not POST the employer form or sync accounts in the background. Human Inspect Accept authorizes the waiting operative to submit once after begin execute:true.
 
 </details>
 
