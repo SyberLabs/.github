@@ -8,17 +8,26 @@
 SyberLabs is a laboratory for building and studying software at the intersection of **machine learning, human-computer interaction, computational systems, simulation, and generative art.**
 
 <!-- relay:public:start -->
+A two-person lab. **[Mateo Robles](https://github.com/sykosyber)** · SyberLabs / RISE. **[Seth Carlson](https://github.com/sdcarlson)** · Relay lead engineer; systems on RISE and OSAHR.
+
 ## RELAY - our flagship project
 
 **[RELAY](https://github.com/SyberLabs/relay) is SyberLabs' current product focus.**
 
-SyberLabs' invited-pilot workspace for one job at a time: keep candidate facts for reuse, hand context to your assistant, review returned wording, and accept exact text. Relay preserves research and review history for later use. It is the project at the center of our development effort.
+Relay helps job seekers manage applications across their preferred AI tools. Keep candidate facts available for reuse, carry job context between assistants, and preserve reviewed drafts and application history. The goal is less repeated work across applications.
 
-**Lead engineer: [Seth Carlson](https://github.com/sdcarlson).** Application development: [Mateo](https://github.com/sykosyber).
+**Relay lead engineer: [Seth Carlson](https://github.com/sdcarlson).** **Product: [Mateo Robles](https://github.com/sykosyber).**
+
+Invited pilot. Review and approve wording for each job; Relay does not send applications.
+
+<details>
+<summary>Integrations and review boundaries</summary>
 
 Works with **ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever** through explicit integrations. ChatGPT uses a prompt and file handoff; Codex also supports a local CLI adapter. This release does not include a hosted ChatGPT app or MCP connection.
 
-Invited pilot. Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations are explicit file and command handoffs; Relay does not send applications or sync accounts in the background.
+Every returned draft needs human review. User confirmation and heuristic checks do not establish factual truth, qualifications or improved hiring outcomes. Acceptance records approval of exact wording. Integrations are explicit file and command handoffs; Relay does not send applications or sync accounts in the background.
+
+</details>
 
 **[Explore RELAY](https://github.com/SyberLabs/relay)** | [ChatGPT and Codex setup](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md)
 <!-- relay:public:end -->
