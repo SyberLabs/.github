@@ -8,7 +8,7 @@
 SyberLabs is a laboratory for building and studying software at the intersection of **machine learning, human-computer interaction, computational systems, simulation, and generative art.**
 
 <!-- relay:public:start -->
-Collaborative laboratory. **[Mateo Robles](https://github.com/sykosyber)** · OSAHR / RISE. **[Seth Carlson](https://github.com/sdcarlson)** · Relay lead engineer; systems on RISE and OSAHR.
+A two-person lab. **[Mateo Robles](https://github.com/sykosyber)** · SyberLabs / RISE. **[Seth Carlson](https://github.com/sdcarlson)** · Relay lead engineer; systems on RISE and OSAHR.
 
 ## RELAY - our flagship project
 
