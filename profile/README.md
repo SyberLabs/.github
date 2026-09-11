@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/syberlabs_intro.gif" width="50%" alt="SyberLabs Visual" />
   <h1>SyberLabs</h1>
-  <p><strong>Experimental software for thinking, perception, and agency.</strong></p>
+  <p><strong>Experimental software for thinking, perception, and agents.</strong></p>
 </div>
 
 > How may software change what people can perceive, understand, and create?
