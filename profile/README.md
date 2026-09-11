@@ -49,18 +49,6 @@ The projects look different because they operate at different layers.
 **OSAHR** asks how changing structures can be simulated, controlled, and inspected.
 **Relay** asks how humans and agents can share consequential work without erasing provenance or authority.
 
-Across them, we are interested in software that does more than produce an output.
-
-We want to see **what it was connected to, what transformed, what evidence supports the result, and where human judgment enters the system.**
-
-## Research and engineering
-
-We build working systems first, but try to keep the boundary between demonstration and speculation explicit.
-
-Experiments live with their assumptions, evaluation artifacts, and known limitations. Product claims are kept separate from research hypotheses. Negative results are useful enough to preserve.
-
-That discipline matters most in systems involving machine learning, agents, simulation, and automated decision support, where an elegant output can easily outrun the evidence behind it.
-
 ---
 
 ### Systems to provoke thought.
