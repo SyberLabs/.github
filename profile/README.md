@@ -40,15 +40,6 @@ Relay is currently in an **invited pilot**. Its submission architecture is inten
 | **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)**            | **Adaptive computational systems.** A Python toolkit for typed stochastic hypergraph rewriting, event scheduling, replay, adaptive parameters, and experimental control systems.               |
 | **[Papers](https://github.com/SyberLabs/papers)**               | **Experiments worth keeping.** Empirical studies, mechanism tests, negative results, and the code used to produce them.                                                                        |
 
-## A common thread
-
-The projects look different because they operate at different layers.
-
-**RISE** asks how computation changes perception.
-**OmniOS** asks what an AI system actually knows.
-**OSAHR** asks how changing structures can be simulated, controlled, and inspected.
-**Relay** asks how humans and agents can share consequential work without erasing provenance or authority.
-
 ---
 
 ### Systems to provoke thought.
