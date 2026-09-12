@@ -8,8 +8,6 @@
 
 **SyberLabs is an independent experimental software studio.** We build products, research systems, and computational instruments across human-computer interaction, AI, adaptive systems, simulation, and generative media.
 
-Our work tends to begin with the same question: **what becomes possible when the structure behind a computational system is made visible, manipulable, and open to human judgment?**
-
 We are a two-person studio:
 
 **[Mateo Robles](https://github.com/sykosyber)** — product, research, HCI, machine learning, and systems
