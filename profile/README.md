@@ -31,8 +31,7 @@ Relay is currently in an **invited pilot**. Its submission architecture is inten
 
 | Project                                                         | What it explores                                                                                                                                                                               |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[RISE](https://github.com/SyberLabs/RISE)**                   | **Reading as a computational medium.** A browser-based environment combining text, time, sound, art, and procedural form. **[Try RISE →](https://rise.syberlabs.space/)**                      |
-| **[OmniOS](https://github.com/SyberLabs/OmniOS)**               | **Inspectable AI context.** A spatial canvas where live information sources connect through typed wires to AI personas, making what a system can actually see explicit.                        |
+| **[RISE](https://github.com/SyberLabs/RISE)**                   | **Reading as a computational medium.** A browser-based environment combining text, time, sound, art, and procedural form. **[Try RISE →](https://rise.syberlabs.space/)**                                |
 | **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)**            | **Adaptive computational systems.** A Python toolkit for typed stochastic hypergraph rewriting, event scheduling, replay, adaptive parameters, and experimental control systems.               |
 | **[Papers](https://github.com/SyberLabs/papers)**               | **Experiments & Investigations.** Empirical studies, mechanism tests, negative results, and the code used to produce them.                                                                        |
 
