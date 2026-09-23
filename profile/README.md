@@ -36,4 +36,4 @@ Relay is currently in an **invited pilot**. Its submission architecture is inten
 
 ### Systems to provoke thought.
 
-[**syberlabs.space**](https://syberlabs.space/) · [**syberlabs.software@gmail.com**](mailto:sykosyber@gmail.com)
+[**syberlabs.space**](https://syberlabs.space/) · [**Email**](mailto:sykosyber@gmail.com)
