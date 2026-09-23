@@ -34,7 +34,7 @@ Relay is currently in an **invited pilot**. Its submission architecture is inten
 
 ---
 ## People 
-**[Mateo Robles](https://github.com/sykosyber)** — product, research, HCI, machine learning, and systems <br>
+**[Mateo Robles](https://github.com/sykosyber)** — full-stack; product, HCI, machine learning, and systems <br>
 **[Seth Carlson](https://github.com/sdcarlson)** — software engineering; lead engineer on Relay; systems contributions across RISE and OSAHR
 ### Systems to provoke thought.
 
