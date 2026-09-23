@@ -8,10 +8,6 @@
 
 **SyberLabs is an independent experimental software studio.** We build products, research systems, and computational instruments across human-computer interaction, AI, adaptive systems, simulation, and generative media.
 
-We are a two-person studio:
-
-**[Mateo Robles](https://github.com/sykosyber)** — product, research, HCI, machine learning, and systems
-**[Seth Carlson](https://github.com/sdcarlson)** — software engineering; lead engineer on Relay; systems contributions across RISE and OSAHR
 
 ## Current focus — Relay
 
@@ -40,4 +36,4 @@ Relay is currently in an **invited pilot**. Its submission architecture is inten
 
 ### Systems to provoke thought.
 
-[**syberlabs.space**](https://syberlabs.space/) · [**syberlabs.software@gmail.com**](mailto:syberlabs.software@gmail.com)
+[**syberlabs.space**](https://syberlabs.space/) · [**syberlabs.software@gmail.com**](mailto:sykosyber@gmail.com)
