@@ -11,15 +11,11 @@
 
 ## Current technical priority — JEV integration
 
-**JEV integration is the CyberLabs team's number one technical priority across every project.** We are actively integrating JEV throughout the portfolio and recruiting engineers with hands-on JEV experience to help lead that work.
-
-JEV is a decision-routing layer: it selects the next permitted operation. Independent checks establish evidence, while OSAHR governs admission. JEV's role is to help each project choose a useful next step without replacing its own correctness checks or controls.
+**JEV integration is the SyberLabs team's number one technical priority across every project.** We are actively integrating JEV throughout the portfolio and recruiting engineers with hands-on JEV experience to help lead that work.
 
 **Experienced with JEV?** We want to hear from engineers who have built, integrated, or operated JEV systems. [Contact the team](mailto:syberlabs.software@gmail.com?subject=JEV%20engineering).
 
-### [JEV integration across our projects](https://github.com/SyberLabs)
-
-This is shared technical work across the CyberLabs portfolio. Project teams are prioritizing the interfaces, routing paths, and independent checks needed to integrate JEV into each system.
+JEV integration is the shared technical focus across our projects.
 
 ---
 
