@@ -5,11 +5,13 @@
   <p><strong>Independent software lab building interactive reading experiences and inspectable agent systems.</strong></p>
 </div>
 
-## RISE and Jev
+## RISE and Kev
 
 **[RISE](https://github.com/SyberLabs/RISE)** is a live browser reader for text, time, image, and sound. Readers can present the same source in Stream or Page and control the pace and presentation. [Open RISE](https://rise.syberlabs.io/) · [See the project](https://syberlabs.io/projects/rise/)
 
-**Jev** is TypeSafe AI's model, which we are evaluating independently. In RISE's Scriptorium, an optional **Route with JEV** action recommends a composition format from a typed request. Readers supply their own API key for that action. RISE still examines and admits the resulting reading through its own code. Chamber reading and pacing run locally without a model call or provider key. We have not verified a live provider outcome for the routing flow. [How we are evaluating Jev](https://syberlabs.io/jev/)
+RISE has used **Jev**, TypeSafe AI's model, for bounded reading decisions. We are migrating that path to **[Kev](https://github.com/jaredpalmer/kev)**, Jared Palmer's open decision-model project. The migration work adds pinned server-side provider configuration, but we have not confirmed a live Kev deployment or independently verified a Kev reading outcome. The prior Jev evaluation remains [historical evidence](https://syberlabs.io/jev/), not a Kev result. [Kev migration status](https://syberlabs.io/kev/)
+
+In the migration candidate, optional Scriptorium model routing suggests a composition format from a typed request. The proposed route keeps the provider credential on RISE's server and removes the reader API-key field. Its Kev behavior has not been verified live, and Jev remains an explicit rollback option. RISE still examines the resulting proposal through its own code. Chamber reading and pacing run locally without a model call or provider key.
 
 ---
 
