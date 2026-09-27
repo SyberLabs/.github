@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./assets/syberlabs_mark_s.png" width="150" alt="SyberLabs mark" />
   <h1>SyberLabs</h1>
-  <p><strong>Software and research for reading, adaptive systems, and AI.</strong></p>
+  <p><strong>Read. Think. Build.</strong></p>
 </div>
 
 ## RISE and Jev
