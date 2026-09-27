@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="./assets/syberlabs_banner.png" width="75%" alt="Software for you and your agents." />
   <img src="./assets/syberlabs_mark_s.png" width="150" alt="SyberLabs mark" />
   <h1>SyberLabs</h1>
   <p><strong>Software and research for reading, adaptive systems, and AI.</strong></p>
