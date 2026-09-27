@@ -17,7 +17,6 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Relay](https://github.com/SyberLabs/relay)** | An application workspace in an invited pilot. People approve exact wording and control submissions. |
 | **[OSAHR](https://github.com/SyberLabs/OSAHR_Cell)** | A Python kernel for stochastic, adaptive rewriting of typed hypergraphs with event replay. |
 | **[OmniOS](https://github.com/SyberLabs/OmniOS)** | A canvas connecting live information sources to AI personas with inspectable context. |
 | **[Papers](https://github.com/SyberLabs/papers)** | Research projects with clear status, claim limits, and reproduction steps. |
