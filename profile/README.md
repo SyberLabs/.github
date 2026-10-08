@@ -5,14 +5,13 @@
   <p><strong>Independent software lab building interactive reading experiences and inspectable agent systems.</strong></p>
 </div>
 
-<!-- Reflects: SyberLabs/RISE@64c046a (PR #294, merged 2026-09-30) · verified 2026-10-01 -->
-## RISE and reader-owned inference
+## RISE and Kev
 
 **[RISE](https://github.com/SyberLabs/RISE)** is a live browser reader for text, time, image, and sound. Readers can present the same source in Stream or Page and control the pace and presentation. [Open RISE](https://rise.syberlabs.io/) · [See the project](https://syberlabs.io/projects/rise/)
 
-RISE spends no shared inference. The six reading-decision routes it once served now answer `410 SHARED_INFERENCE_RETIRED`, and the RISE Worker holds no model credential of any kind. A reader who wants a bounded reading decision brings their own model: **Connect OpenRouter**, billed to the reader's own OpenRouter account, or **Run locally** (`npm run local`), which pairs RISE with a pinned Kev-4B — from **[Kev](https://github.com/jaredpalmer/kev)**, Jared Palmer's open decision-model project — on the reader's own GPU, and sends nothing to us. SyberLabs hosts no Jev or Kev endpoint for anyone.
+RISE has used **Jev**, TypeSafe AI's model, for bounded reading decisions. We are migrating that path to **[Kev](https://github.com/jaredpalmer/kev)**, Jared Palmer's open decision-model project. The migration work adds pinned server-side provider configuration, but we have not confirmed a live Kev deployment or independently verified a Kev reading outcome. The prior Jev evaluation remains [historical evidence](https://syberlabs.io/jev/), not a Kev result. [Kev migration status](https://syberlabs.io/kev/)
 
-Chamber reading and pacing run locally with no model call and no provider key — that is the default and the common case. Where a model does take part, it only proposes: RISE examines every proposal through its own code before anything is admitted. We have not independently verified a Kev reading outcome, and the earlier Jev evaluation remains [historical evidence](https://syberlabs.io/jev/) rather than a Kev result. [Inference status](https://syberlabs.io/kev/)
+In the migration candidate, optional Scriptorium model routing suggests a composition format from a typed request. The proposed route keeps the provider credential on RISE's server and removes the reader API-key field. Its Kev behavior has not been verified live, and Jev remains an explicit rollback option. RISE still examines the resulting proposal through its own code. Chamber reading and pacing run locally without a model call or provider key.
 
 ---
 
