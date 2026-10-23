@@ -12,14 +12,6 @@
 
 [**Open RISE →**](https://rise.syberlabs.io/) · [About the project](https://syberlabs.io/projects/rise/) · [Architecture](https://github.com/SyberLabs/RISE/blob/main/docs/specs/ARCHITECTURE.md)
 
-Three constraints decide everything else in it:
-
-1. **No shared inference.** Every model call runs on the reader's own key or the reader's own machine. RISE never pays for a reader's thinking, and its servers hold no model credential.
-2. **A browser, no account.** There is no identity service and no server-side reader state. Nothing a reader types or reads leaves their device unless they send it.
-3. **Content is static and content-addressed.** Editions, recitation, imagery and programs are files named by their hash and verified on every read.
-
-Reading and pacing need no model at all. The optional AI reading request is bring-your-own: **Connect OpenRouter** runs hosted Jev (TypeSafe AI) on the reader's own OpenRouter account, and **Run locally** pairs RISE with a pinned Kev-4B, from **[Kev](https://github.com/jaredpalmer/kev)**, Jared Palmer's open decision-model project, on the reader's own GPU. Either way the model only proposes: RISE admits an answer only when it picks from the choices RISE offered. We have not independently verified a Kev reading outcome; the earlier Jev evaluation is [historical evidence](https://syberlabs.io/jev/), not a Kev result. [How reader-owned AI works](https://syberlabs.io/kev/)
-
 ---
 
 ## Selected work
